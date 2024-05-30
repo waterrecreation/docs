@@ -27,51 +27,56 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Eva Quiz",
       "url": "api-reference"
+      
+    },    
+    {
+      "name": "OKCan",
+      "url": "api-reference"
+      
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "InFancy",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://infancy.ai/"
     },
     {
       "name": "Community",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://t.me/InFancy_Community"
     },
     {
-      "name": "Blog",
+      "name": "Official Channel",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://t.me/InFancy_AI"
+    },
+    {
+      "name": "News Channel",
+      "icon": "newspaper",
+      "url": "https://t.me/InFancy_news"
     }
   ],
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "News Archieve",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/week9",
+        "essentials/week8"
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Get Started",
       "pages": [
-        "api-reference/introduction"
+        "introduction"
       ]
     },
     {
@@ -84,7 +89,7 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
+    "x": "https://x.com/Infancy_ai",
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
   }
